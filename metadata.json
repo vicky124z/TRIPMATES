@@ -1,0 +1,8 @@
+{
+  "name": "TripMates — Social Travel & Tourism Platform",
+  "description": "Explore More. Meet Your People. Discover destinations, join group trips, find travel companions, and organize itineraries with TripMates powered by Airtable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
